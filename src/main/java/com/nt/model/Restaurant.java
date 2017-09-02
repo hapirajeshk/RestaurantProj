@@ -46,7 +46,7 @@ public class Restaurant {
 	@Override
 	public String toString() {
 		return "Restaurant [restaurantId=" + restaurantId + ", restaurantName=" + restaurantName + ", address="
-				+ address + ", categoryId=" + categoryId + "]";
+				+ address + " , categoryId=" + categoryId + "]";
 	}
 	
 
